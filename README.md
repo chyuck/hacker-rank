@@ -1,2 +1,1 @@
-# hacker-rank
-hackerrank.com problem solutions using C#
+[hackerrank.com](https://hackerrank.com) problem solutions using C#
