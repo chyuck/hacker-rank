@@ -9,3 +9,4 @@
 | [2D Array Hourglass Sum](https://www.hackerrank.com/challenges/2d-array) | [2dArray.cs](2dArray.cs) | Easy |
 | [Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | [ArrayLeftRotation.cs](ArrayLeftRotation.cs) | Easy |
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | [NewYearChaos.cs](NewYearChaos.cs) | Medium |
+| [ArrayManipulation (Crush)](https://www.hackerrank.com/challenges/crush) | [ArrayManipulation.cs](ArrayManipulation.cs) | Hard |
