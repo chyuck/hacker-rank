@@ -1,4 +1,4 @@
-[hackerrank.com](https://hackerrank.com) problem solutions using C#
+Solutions for [hackerrank.com](https://hackerrank.com) problems using C#
 
 | Problem | Solution | Difficulty |
 | --- | --- | --- |
