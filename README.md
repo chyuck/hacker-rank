@@ -11,3 +11,4 @@ Solutions for [hackerrank.com](https://hackerrank.com) problems using C#
 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | [NewYearChaos.cs](NewYearChaos.cs) | Medium |
 | [ArrayManipulation (Crush)](https://www.hackerrank.com/challenges/crush) | [ArrayManipulation.cs](ArrayManipulation.cs) | Hard |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) | [MinimumSwaps2.cs](MinimumSwaps2.cs) | Medium |
+| [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) | [RansomNote.cs](RansomNote.cs) | Easy |
