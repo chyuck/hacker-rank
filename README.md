@@ -12,3 +12,4 @@ Solutions for [hackerrank.com](https://hackerrank.com) problems using C#
 | [ArrayManipulation (Crush)](https://www.hackerrank.com/challenges/crush) | [ArrayManipulation.cs](ArrayManipulation.cs) | Hard |
 | [Minimum Swaps 2](https://www.hackerrank.com/challenges/minimum-swaps-2) | [MinimumSwaps2.cs](MinimumSwaps2.cs) | Medium |
 | [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note) | [RansomNote.cs](RansomNote.cs) | Easy |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [TwoStrings.cs](TwoStrings.cs) | Easy |
